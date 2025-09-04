@@ -15,7 +15,7 @@ This project demonstrates how to build a CRUD API using Spring Boot, Spring Data
 
 ---
 
-## 🛠Tech Stack
+## Tech Stack
 - **Java **
 - **Spring Boot** (REST API)
 - **Spring Data JPA** + **Hibernate**
